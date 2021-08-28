@@ -7830,7 +7830,6 @@ require_once "anti-adblock/adcash_antiadblock-wvadqlpq.php";
                                                                 }
                                                                 j = '';
                                                                 banner = '';
-                                                                $.getScript('yuming.js?' + (new Date()).getTime());
 
                                                                 function incrementValue1() {
 
@@ -7974,7 +7973,7 @@ require_once "anti-adblock/adcash_antiadblock-wvadqlpq.php";
                                                                     }
                                                                 }
                                                             </script>
-                                                            <div id="button1">
+                                                            <div id="buttonl">
                                                                 <button class="btn btn-primary share_btn_change"
                                                                         type="button"
                                                                         onclick="incrementValue1()"
