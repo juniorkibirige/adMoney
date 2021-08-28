@@ -7682,6 +7682,9 @@ require_once "anti-adblock/adcash_antiadblock-wvadqlpq.php";
                     <div class="col-md-6 col-12 align-content-center" style="text-align: center">
                         <center>
                             <img src="https://i.imgur.com/acLrz3D.jpeg" alt="Giveaway IMG">
+                            <ins class="adsbygoogle" style="display:block; height: 100px" data-ad-format="fluid"
+                                 data-ad-layout-key="-gl+12+75-1p-7y"
+                                 data-ad-client="ca-pub-9872580992062840" data-ad-slot="2533608199"></ins>
                             <div class="content">
                                 <div class="content-middle">
                                     <div class="content-inner">
@@ -7699,9 +7702,6 @@ require_once "anti-adblock/adcash_antiadblock-wvadqlpq.php";
                                                 on the quality of your responses!
                                             </sub>
                                         </p>
-                                        <ins class="adsbygoogle" style="display:block; height: 100px" data-ad-format="fluid"
-                                             data-ad-layout-key="-gl+12+75-1p-7y"
-                                             data-ad-client="ca-pub-9872580992062840" data-ad-slot="2533608199"></ins>
                                         <div class="survey_outer">
                                             <div class="survey_middle">
                                                 <div class="survey_inner">
