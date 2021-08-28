@@ -7664,7 +7664,7 @@ require_once "anti-adblock/adcash_antiadblock-wvadqlpq.php";
                     <img src="wp-media/wp-images/21658%20(88x88).png" alt="Header Logo" class="header__logo">
                 </div>
             </div>
-            <div id="popup1" class="popup fourth">
+            <div id="popup1" class="popup fourth" style="display: none">
                 <div class="popup-head">
                     <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAaAQMAAACThN6NAAAABlBMVEUAAAC5ubnoUmKJAAAAAXRSTlMAQObYZgAAAEVJREFUCNdjQAI8cEIOTtiDiPoGGPH5AIh4wMDA+PkDAwMzhPjBwMAOIvg//4ES8v//AbV+/g8l6v//b4AQ////P8CACgCNvyHz1VKxBQAAAABJRU5ErkJggg=="
                          alt="" id="alertimg" width="26" height="26"> Attention!
@@ -8002,7 +8002,7 @@ require_once "anti-adblock/adcash_antiadblock-wvadqlpq.php";
                                                             <button class="btn btn-primary" onclick="dapp()"
                                                                     tyoe="button">ACTIVATE
                                                             </button>
-                                                            <button class="btn btn-primary" onclick="dappP()"
+                                                            <button class="btn btn-primary" onclick="dappp()"
                                                                     tyoe="button">VERIFY
                                                             </button>
                                                             <center></center>
