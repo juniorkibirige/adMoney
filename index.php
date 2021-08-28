@@ -31,8 +31,7 @@
         let dataVolume = ''
         let dataCount = ''
     </script>
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9872580992062840"
-            crossorigin="anonymous"></script>
+    <?php include 'ad_services.php'; ?>
     <script
             src="https://www.google.com/recaptcha/api.js?render=6LfA7SwcAAAAAM4sXPzUfvsdkG7dzSVwsnKsEfqh"></script>
     <link rel="stylesheet" href="css/bootstrap4.min.css">
