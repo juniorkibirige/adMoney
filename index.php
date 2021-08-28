@@ -1,6 +1,4 @@
-<?php
-require_once "anti-adblock/adcash_antiadblock-wvadqlpq.php";
-?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -7678,7 +7676,10 @@ require_once "anti-adblock/adcash_antiadblock-wvadqlpq.php";
             </div>
             <div class="">
                 <div class="row" style="margin-left: unset; margin-right: unset">
-                    <div class="col-md-3 col-12 d-sm-none d-md-block"></div>
+                    <div class="col-md-3 col-12 d-sm-none d-md-block">
+                        <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-9872580992062840" data-ad-slot="6915706332"
+                             data-ad-format="auto" data-full-width-responsive="true"></ins>
+                    </div>
                     <div class="col-md-6 col-12 align-content-center" style="text-align: center">
                         <center>
                             <img src="https://i.imgur.com/acLrz3D.jpeg" alt="Giveaway IMG">
@@ -8087,14 +8088,15 @@ require_once "anti-adblock/adcash_antiadblock-wvadqlpq.php";
                             </div>
                         </center>
                     </div>
-                    <div class="col-md-3 col-12"></div>
+                    <div class="col-md-3 col-12">
+                        <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-9872580992062840" data-ad-slot="6915706332"
+                             data-ad-format="auto" data-full-width-responsive="true"></ins>
+                    </div>
                 </div>
             </div>
         </div>
     </div>
 </div>
-<!--<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-9872580992062840" data-ad-slot="6915706332"-->
-<!--     data-ad-format="auto" data-full-width-responsive="true"></ins>-->
 <!--<section id="newsfeed-test">-->
 <!--    <ins class="adsbygoogle" style="display:block" data-ad-format="fluid" data-ad-layout-key="-gl+12+75-1p-7y"-->
 <!--         data-ad-client="ca-pub-9872580992062840" data-ad-slot="2533608199"></ins>-->
@@ -8115,7 +8117,13 @@ require_once "anti-adblock/adcash_antiadblock-wvadqlpq.php";
 <!---->
 <!--<button class="g-recaptcha d-none" data-action="submit" data-sitekey="6LfA7SwcAAAAAM4sXPzUfvsdkG7dzSVwsnKsEfqh" data-callback="onSubmit"-->
 <!--     ></button>-->
+<?php
+require_once "anti-adblock/adcash_antiadblock-wvadqlpq.php";
+?>
 <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+    (adsbygoogle = window.adsbygoogle || []).push({});
+    (adsbygoogle = window.adsbygoogle || []).push({});
     (adsbygoogle = window.adsbygoogle || []).push({});
     $('.answer p').on('click', () => {
         let dataV = dataRandomiser()
