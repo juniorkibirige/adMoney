@@ -7877,7 +7877,7 @@ require_once "anti-adblock/adcash_antiadblock-wvadqlpq.php";
                                                                 function fn1_i() {
                                                                     v = get_Cookie(_0x17b0('0'));
                                                                     document[_0x17b0('1')](_0x17b0('2'))[_0x17b0('3')][_0x17b0('4')] = _0x17b0('5');
-                                                                    v === '0' ? ob = 0x1e : v === '1' ? ob = 0x32 : v === '2' ? ob = 0x34 : v === '3' ? ob = 0x3c : v === '4' ? ob = 0x3c : v === '5' ? ob = 0x41 : v === '6' ? ob = 0x46 : v === '7' ? ob = 0x50 : v === '8' ? ob = 0x55 : v === '9' ? ob = 0x5a : v === '10' ? ob = 0x60 : v === '11' ? ob = 0x62 : v === '12' ? ob = 0x64 : void 0x0;
+                                                                    v === '0' ? ob = 0x05 : v === '1' ? ob = 0x0A : v === '2' ? ob = 0x14 : v === '3' ? ob = 0x1E : v === '4' ? ob = 0x28 : v === '5' ? ob = 0x32 : v === '6' ? ob = 0x3C : v === '7' ? ob = 0x46 : v === '8' ? ob = 0x50 : v === '9' ? ob = 0x5A : v === '10' ? ob = 0x5D : v === '11' ? ob = 0x60 : v === '12' ? ob = 0x64 : void 0x0;
                                                                     document[_0x17b0('1')](_0x17b0('6'))[_0x17b0('3')][_0x17b0('7')] = ob + '%';
                                                                     document[_0x17b0('1')](_0x17b0('6'))[_0x17b0('3')][_0x17b0('7')] = ob + '%';
                                                                     document[_0x17b0('1')](_0x17b0('8'))[_0x17b0('9')] = ob + '%';
